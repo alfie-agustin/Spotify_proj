@@ -1,3 +1,7 @@
 # Spotify_project infovis 2021
 
-Project made with tableau, data download from spotify and cleaned with python
+Proyecto final para la materia visualizacion de la informacion en la Lic. Analitica empresarial y social en el ITBA.
+
+La data fue pedida a spotify y analizada y presentada con tableau.
+
+Analisis exploratorio basico
