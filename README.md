@@ -4,4 +4,4 @@ Proyecto final para la materia visualizacion de la informacion en la Lic. Analit
 
 La data fue pedida a spotify y analizada y presentada con tableau.
 
-Analisis exploratorio basico
+Analisis exploratorio basico, el objetivo era hacer una presentacion clara, precisa basada en la presentacion visual
